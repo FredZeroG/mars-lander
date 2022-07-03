@@ -1,2 +1,7 @@
 # mars-lander
-Petit jeu où vous devez faire atterrir votre "lander" sur la plateforme verte.
+
+Inspiré des jeux de type Lunar Lander.
+
+Développé en JavaScript (ES6).
+
+![Screenshot](img/screenshot.png)
